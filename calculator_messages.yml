@@ -1,0 +1,14 @@
+welcome: "Welcome to Calculator! Enter your name:"
+invalid_name: "Make sure to enter a valid name."
+first_number: "What's the first number?"
+second_number: "What's the second number?"
+invalid_number: "Hmmm...that is not a valid number."
+invalid_operator: "Hmmm...that is not a valid operator"
+play_again?: "do you want to play again? Enter 'n' to exit or any other key to continue."
+zero_division: "Cannot divide by 0. Restarting program..."
+operator_prompt: |
+  Which operation would you like to perform?
+  1) Add
+  2) Subtract
+  3) Multiply
+  4) Divide
